@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/adfolio/static/css/main.e93328f6.css",
-    "main.js": "/adfolio/static/js/main.c6f0ac16.js",
+    "main.js": "/adfolio/static/js/main.79358c8e.js",
     "static/js/453.96453769.chunk.js": "/adfolio/static/js/453.96453769.chunk.js",
     "index.html": "/adfolio/index.html",
     "main.e93328f6.css.map": "/adfolio/static/css/main.e93328f6.css.map",
-    "main.c6f0ac16.js.map": "/adfolio/static/js/main.c6f0ac16.js.map",
+    "main.79358c8e.js.map": "/adfolio/static/js/main.79358c8e.js.map",
     "453.96453769.chunk.js.map": "/adfolio/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e93328f6.css",
-    "static/js/main.c6f0ac16.js"
+    "static/js/main.79358c8e.js"
   ]
 }
