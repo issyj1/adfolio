@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adfolio/static/css/main.5aae4edb.css",
+    "main.js": "/adfolio/static/js/main.231c175c.js",
+    "static/js/453.96453769.chunk.js": "/adfolio/static/js/453.96453769.chunk.js",
+    "index.html": "/adfolio/index.html",
+    "main.5aae4edb.css.map": "/adfolio/static/css/main.5aae4edb.css.map",
+    "main.231c175c.js.map": "/adfolio/static/js/main.231c175c.js.map",
+    "453.96453769.chunk.js.map": "/adfolio/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aae4edb.css",
+    "static/js/main.231c175c.js"
+  ]
+}
