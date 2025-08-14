@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/adfolio/static/css/main.e93328f6.css",
-    "main.js": "/adfolio/static/js/main.c5781895.js",
-    "static/js/453.96453769.chunk.js": "/adfolio/static/js/453.96453769.chunk.js",
-    "index.html": "/adfolio/index.html",
-    "main.e93328f6.css.map": "/adfolio/static/css/main.e93328f6.css.map",
-    "main.c5781895.js.map": "/adfolio/static/js/main.c5781895.js.map",
-    "453.96453769.chunk.js.map": "/adfolio/static/js/453.96453769.chunk.js.map"
+    "main.css": "/adbook/static/css/main.2e8d438d.css",
+    "main.js": "/adbook/static/js/main.4d011adb.js",
+    "static/js/453.96453769.chunk.js": "/adbook/static/js/453.96453769.chunk.js",
+    "static/media/Shango-Regular.woff": "/adbook/static/media/Shango-Regular.8579b073266577f83605.woff",
+    "index.html": "/adbook/index.html",
+    "main.2e8d438d.css.map": "/adbook/static/css/main.2e8d438d.css.map",
+    "main.4d011adb.js.map": "/adbook/static/js/main.4d011adb.js.map",
+    "453.96453769.chunk.js.map": "/adbook/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e93328f6.css",
-    "static/js/main.c5781895.js"
+    "static/css/main.2e8d438d.css",
+    "static/js/main.4d011adb.js"
   ]
 }
